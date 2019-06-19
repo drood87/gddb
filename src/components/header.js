@@ -1,42 +1,53 @@
-import { Link } from "gatsby"
-import PropTypes from "prop-types"
-import React from "react"
+import { Link } from 'gatsby';
+import PropTypes from 'prop-types';
+import React from 'react';
+// @ts-ignore
+import styled from 'styled-components';
+// @ts-ignore
+import logo from '../images/logo.svg';
+
+const HeaderWrapper = styled.header`
+  background: #132028;
+  margin-bottom: 1.45rem;
+
+  & > div {
+    margin: 0 auto;
+    max-width: 960;
+    padding: 1.45rem 1.0875rem;
+
+    & > h1 {
+      margin: 0;
+    }
+  }
+`;
+
+const StyledLink = styled(props => <Link {...props} />)`
+  color: white;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+`;
 
 const Header = ({ siteTitle }) => (
-  <header
-    style={{
-      background: `rebeccapurple`,
-      marginBottom: `1.45rem`,
-    }}
-  >
-    <div
-      style={{
-        margin: `0 auto`,
-        maxWidth: 960,
-        padding: `1.45rem 1.0875rem`,
-      }}
-    >
-      <h1 style={{ margin: 0 }}>
-        <Link
-          to="/"
-          style={{
-            color: `white`,
-            textDecoration: `none`,
-          }}
-        >
+  <HeaderWrapper>
+    <div>
+      <h1>
+        <StyledLink to="/">
+          <img src={logo} alt="GDDB Logo" />
           {siteTitle}
-        </Link>
+        </StyledLink>
       </h1>
     </div>
-  </header>
-)
+  </HeaderWrapper>
+);
 
 Header.propTypes = {
   siteTitle: PropTypes.string,
-}
+};
 
 Header.defaultProps = {
-  siteTitle: ``,
-}
+  siteTitle: '',
+};
 
-export default Header
+export default Header;
