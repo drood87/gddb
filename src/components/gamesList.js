@@ -1,67 +1,49 @@
-import React, { Component } from 'react';
-import axios from 'axios';
+/* eslint-disable max-len */
+import React from 'react';
 import { StaticQuery, graphql } from 'gatsby';
-
 import Game from './game';
 
-class GamesList extends Component {
-  state = {
-    slug: [],
-    gameId: [],
-    cover: [],
-    gameName: [],
-  };
+// const biggerCovers = coverUrl.map(string => (string === undefined ? '//images.igdb.com/igdb/image/upload/t_720p/co1hec.jpg' : string.replace(/t_thumb/, 't_720p')));
 
-  async componentDidMount() {
-    try {
-      const res = await axios({
-        url: 'http://localhost:8010/proxy/companies',
-        method: 'POST',
-        headers: {
-          Accept: 'application/json',
-          'user-key': 'cc9c2b79c9b903c7e5c5dd721c77fb17',
-        },
-        data: 'fields name,published.name,published.cover.url,published.slug;where id = 51;',
-      });
-      this.setState({
-        slug: res.data[0].published.map(item => item.slug),
-        gameId: res.data[0].published.map(item => item.id),
-        gameName: res.data[0].published.map(item => item.name),
-        // eslint-disable-next-line max-len
-        cover: res.data[0].published.map(item => (item.cover === undefined ? 'https://placeimg.com/640/480/any' : item.cover)),
-      });
-    } catch (e) {
-      // eslint-disable-next-line no-console
-      console.error(e);
+const GamesList = () => (
+  <StaticQuery
+    query={GAMES_QUERY}
+    render={({ allInternalData }) => allInternalData.edges[0].node.published.map(game => (
+      <Game
+        key={game.alternative_id}
+        name={game.name}
+        img={
+          game.cover.url === null
+            ? '//images.igdb.com/igdb/image/upload/t_720p/co1hec.jpg'
+            : game.cover.url.replace(/t_thumb/, 't_720p')
+        }
+      />
+    ))
     }
-  }
-
-  render() {
-    const { gameName } = this.state;
-    const { cover } = this.state;
-    const { gameId } = this.state;
-    const { slug } = this.state;
-
-    // get the URLS from the cover images
-    const coverUrl = cover.map(url => url.url);
-
-    // replace thumbnail images with 720p images and replace undefined image with other cover
-
-    const biggerCovers = coverUrl.map(string => (string === undefined
-      ? '//images.igdb.com/igdb/image/upload/t_720p/co1hec.jpg'
-      : string.replace(/t_thumb/, 't_720p')));
-
-    return (
-      <div>
-        {gameName.map((name, i) => (
-          <Game gameName={name} id={gameId[i]} key={gameId[i]} img={biggerCovers[i]} slug={slug[i]} />
-        ))}
-      </div>
-    );
-  }
-}
+  />
+);
 
 export default GamesList;
+
+// class GamesList extends Component {
+//   render() {
+//     // replace thumbnail images with 720p images and replace undefined image with other cover
+
+// const biggerCovers = coverUrl.map(string => (string === undefined
+//   ? '//images.igdb.com/igdb/image/upload/t_720p/co1hec.jpg'
+//   : string.replace(/t_thumb/, 't_720p')));
+
+//     return (
+//       // <div>
+//       //   {gameName.map((name, i) => (
+//       //     <Game gameName={name} id={gameId[i]} key={gameId[i]} img={biggerCovers[i]} slug={slug[i]} />
+//       //   ))}
+//       // </div>
+//     );
+//   }
+// }
+
+// export default GamesList;
 
 const GAMES_QUERY = graphql`
   query GetPublishedGames {
