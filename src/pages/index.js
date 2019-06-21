@@ -1,5 +1,6 @@
 import React from 'react';
 import GamesList from '../components/gamesList';
+// import GameDetail from '../components/gameDetail';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
 

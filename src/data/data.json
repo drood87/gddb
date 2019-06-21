@@ -1,0 +1,427 @@
+[
+  {
+    "id": 51,
+    "name": "Blizzard Entertainment",
+    "published": [
+      {
+        "id": 120,
+        "cover": {
+          "id": 914,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/hohtqw21z8ucbsylj7i1.jpg"
+        },
+        "name": "Diablo III",
+        "slug": "diablo-iii"
+      },
+      {
+        "id": 123,
+        "cover": {
+          "id": 122,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/osspygfgdohniipayzeu.jpg"
+        },
+        "name": "World of Warcraft",
+        "slug": "world-of-warcraft"
+      },
+      {
+        "id": 125,
+        "cover": {
+          "id": 43205,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/yvtueb4jdyww4t26b0yt.jpg"
+        },
+        "name": "Diablo",
+        "slug": "diablo"
+      },
+      {
+        "id": 126,
+        "cover": {
+          "id": 39704,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/rdxf2fdxiutxiw0dumto.jpg"
+        },
+        "name": "Diablo II",
+        "slug": "diablo-ii"
+      },
+      {
+        "id": 129,
+        "cover": {
+          "id": 63915,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/zqnff2pzs4pkhl4winck.jpg"
+        },
+        "name": "Warcraft: Orcs & Humans",
+        "slug": "warcraft-orcs-humans"
+      },
+      {
+        "id": 130,
+        "cover": {
+          "id": 129,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/olpk2nfqu4susanmykqu.jpg"
+        },
+        "name": "Warcraft II: Tides of Darkness",
+        "slug": "warcraft-ii-tides-of-darkness"
+      },
+      {
+        "id": 131,
+        "cover": {
+          "id": 130,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/cundwztjmcsjxfro46nb.jpg"
+        },
+        "name": "Warcraft II: Beyond the Dark Portal",
+        "slug": "warcraft-ii-beyond-the-dark-portal"
+      },
+      {
+        "id": 132,
+        "cover": {
+          "id": 63923,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/ad2vrrlzdsfy3s2fjtgv.jpg"
+        },
+        "name": "Warcraft III: Reign of Chaos",
+        "slug": "warcraft-iii-reign-of-chaos"
+      },
+      {
+        "id": 133,
+        "cover": {
+          "id": 63921,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/sn7qos6agmexdft6utwa.jpg"
+        },
+        "name": "Warcraft III: The Frozen Throne",
+        "slug": "warcraft-iii-the-frozen-throne"
+      },
+      {
+        "id": 227,
+        "cover": {
+          "id": 221,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/gmvflcngdn5ykbwclpvs.jpg"
+        },
+        "name": "World of Warcraft: The Burning Crusade",
+        "slug": "world-of-warcraft-the-burning-crusade"
+      },
+      {
+        "id": 228,
+        "cover": {
+          "id": 9704,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/yli5wwd96p9tuk5bewdx.jpg"
+        },
+        "name": "World of Warcraft: Wrath of the Lich King",
+        "slug": "world-of-warcraft-wrath-of-the-lich-king"
+      },
+      {
+        "id": 230,
+        "cover": {
+          "id": 57966,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/hkpgcjtvdtjb06ik8fse.jpg"
+        },
+        "name": "StarCraft",
+        "slug": "starcraft"
+      },
+      {
+        "id": 239,
+        "cover": {
+          "id": 63353,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/bgn7cqukcnskka73rwse.jpg"
+        },
+        "name": "StarCraft II: Wings of Liberty",
+        "slug": "starcraft-ii-wings-of-liberty"
+      },
+      {
+        "id": 246,
+        "cover": {
+          "id": 238,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/kfvnrf9jgsib4kym8gbn.jpg"
+        },
+        "name": "Diablo II: Lord of Destruction",
+        "slug": "diablo-ii-lord-of-destruction"
+      },
+      {
+        "id": 456,
+        "cover": {
+          "id": 439,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/u0pnnyogoultznhun8sf.jpg"
+        },
+        "name": "StarCraft: Brood War",
+        "slug": "starcraft-brood-war"
+      },
+      {
+        "id": 457,
+        "cover": {
+          "id": 63354,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/lekqpzoikgzinjtpsc5k.jpg"
+        },
+        "name": "StarCraft II: Heart of the Swarm",
+        "slug": "starcraft-ii-heart-of-the-swarm"
+      },
+      {
+        "id": 458,
+        "cover": {
+          "id": 63355,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/cs4c4u0o7xydu1xgopyv.jpg"
+        },
+        "name": "StarCraft II: Legacy of the Void",
+        "slug": "starcraft-ii-legacy-of-the-void"
+      },
+      {
+        "id": 1279,
+        "cover": {
+          "id": 9241,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/qx4kelmhvmynsjehm14g.jpg"
+        },
+        "name": "Hearthstone",
+        "slug": "hearthstone"
+      },
+      {
+        "id": 1332,
+        "cover": {
+          "id": 1341,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/ospnlz5wxtmly1ykfkfm.jpg"
+        },
+        "name": "World of Warcraft: Mists of Pandaria",
+        "slug": "world-of-warcraft-mists-of-pandaria"
+      },
+      {
+        "id": 3157,
+        "cover": {
+          "id": 8635,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/wtvqejdbir1t7rt6mddr.jpg"
+        },
+        "name": "World of Warcraft: Warlords of Draenor",
+        "slug": "world-of-warcraft-warlords-of-draenor"
+      },
+      {
+        "id": 3182,
+        "cover": {
+          "id": 3937,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/qbgh5zqabojbi9ftnujg.jpg"
+        },
+        "name": "Diablo III: Reaper of Souls",
+        "slug": "diablo-iii-reaper-of-souls"
+      },
+      {
+        "id": 7313,
+        "cover": {
+          "id": 11353,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/nam6futpzszd26us2jat.jpg"
+        },
+        "name": "Heroes of the Storm",
+        "slug": "heroes-of-the-storm"
+      },
+      {
+        "id": 8173,
+        "cover": {
+          "id": 40631,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/fen88hu0vhcf3k3owkxd.jpg"
+        },
+        "name": "Overwatch",
+        "slug": "overwatch"
+      },
+      {
+        "id": 11355,
+        "cover": {
+          "id": 10733,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/fxbq7rpvc6qtqkch0iaz.jpg"
+        },
+        "name": "Starcraft: Ghost",
+        "slug": "starcraft-ghost"
+      },
+      {
+        "id": 11593,
+        "cover": {
+          "id": 10900,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/wbz8xtbg3iq0hzrwre1b.jpg"
+        },
+        "name": "World of Warcraft: Legion",
+        "slug": "world-of-warcraft-legion"
+      },
+      {
+        "id": 19162,
+        "cover": {
+          "id": 69171,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hdf.jpg"
+        },
+        "name": "Hearthstone: Whispers of Old Gods",
+        "slug": "hearthstone-whispers-of-old-gods"
+      },
+      {
+        "id": 21971,
+        "cover": {
+          "id": 69169,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hdd.jpg"
+        },
+        "name": "Hearthstone: Goblins vs Gnomes",
+        "slug": "hearthstone-goblins-vs-gnomes"
+      },
+      {
+        "id": 21973,
+        "cover": {
+          "id": 69170,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hde.jpg"
+        },
+        "name": "Hearthstone: The Grand Tournament",
+        "slug": "hearthstone-the-grand-tournament"
+      },
+      {
+        "id": 21974,
+        "cover": {
+          "id": 69201,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1he9.jpg"
+        },
+        "name": "Hearthstone: Blackrock Mountain",
+        "slug": "hearthstone-blackrock-mountain--1"
+      },
+      {
+        "id": 21975,
+        "cover": {
+          "id": 69200,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1he8.jpg"
+        },
+        "name": "Hearthstone: The League of Explorers",
+        "slug": "hearthstone-the-league-of-explorers"
+      },
+      {
+        "id": 21976,
+        "cover": {
+          "id": 69203,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1heb.jpg"
+        },
+        "name": "Hearthstone: One Night in Karazhan",
+        "slug": "hearthstone-one-night-in-karazhan"
+      },
+      {
+        "id": 21977,
+        "cover": {
+          "id": 69176,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hdk.jpg"
+        },
+        "name": "Hearthstone: Curse of Naxxramas",
+        "slug": "hearthstone-curse-of-naxxramas"
+      },
+      {
+        "id": 25601,
+        "cover": {
+          "id": 69172,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hdg.jpg"
+        },
+        "name": "Hearthstone: Mean Streets of Gadgetzan",
+        "slug": "hearthstone-mean-streets-of-gadgetzan"
+      },
+      {
+        "id": 25683,
+        "cover": {
+          "id": 26444,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/olxaetlbkdsagzvd4s4t.jpg"
+        },
+        "name": "StarCraft: Remastered",
+        "slug": "starcraft-remastered"
+      },
+      {
+        "id": 27429,
+        "cover": {
+          "id": 69173,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hdh.jpg"
+        },
+        "name": "Hearthstone: Journey to Un'Goro",
+        "slug": "hearthstone-journey-to-ungoro"
+      },
+      {
+        "id": 44544,
+        "cover": {
+          "id": 31764,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/zki1bat7rxdkyg18ziaq.jpg"
+        },
+        "name": "Overwatch: Origins Edition",
+        "slug": "overwatch-origins-edition"
+      },
+      {
+        "id": 47452,
+        "cover": {
+          "id": 28787,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/hzuk3rgitj3foa5ojeg6.jpg"
+        },
+        "name": "Diablo III: Reaper of Souls - Ultimate Evil Edition",
+        "slug": "diablo-iii-reaper-of-souls-ultimate-evil-edition"
+      },
+      {
+        "id": 52016,
+        "cover": {
+          "id": 69174,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hdi.jpg"
+        },
+        "name": "Hearthstone: Knights of the Frozen Throne",
+        "slug": "hearthstone-knights-of-the-frozen-throne"
+      },
+      {
+        "id": 75379,
+        "cover": {
+          "id": 69220,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hes.jpg"
+        },
+        "name": "World of Warcraft Classic",
+        "slug": "world-of-warcraft-classic"
+      },
+      {
+        "id": 75380,
+        "cover": {
+          "id": 67330,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/qn7wlwyjrjtbaltpbhsy.jpg"
+        },
+        "name": "World of Warcraft: Battle for Azeroth",
+        "slug": "world-of-warcraft-battle-for-azeroth"
+      },
+      {
+        "id": 76152,
+        "cover": {
+          "id": 69202,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hea.jpg"
+        },
+        "name": "Hearthstone: Kobolds & Catacombs",
+        "slug": "hearthstone-kobolds-and-catacombs"
+      },
+      {
+        "id": 96374,
+        "cover": {
+          "id": 69175,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hdj.jpg"
+        },
+        "name": "Hearthstone: The Witchwood",
+        "slug": "hearthstone-the-witchwood"
+      },
+      {
+        "id": 105125,
+        "cover": {
+          "id": 69167,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hdb.jpg"
+        },
+        "name": "Hearthstone: The Boomsday Project",
+        "slug": "hearthstone-the-boomsday-project"
+      },
+      {
+        "id": 111650,
+        "cover": {
+          "id": 69204,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hec.jpg"
+        },
+        "name": "Warcraft III: Reforged",
+        "slug": "warcraft-iii-reforged"
+      },
+      {
+        "id": 111651,
+        "cover": {
+          "id": 69205,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hed.jpg"
+        },
+        "name": "Diablo Immortal",
+        "slug": "diablo-immortal"
+      },
+      {
+        "id": 111652,
+        "name": "Warcraft III: Reforged Spoils of War Edition",
+        "slug": "warcraft-iii-reforged-spoils-of-war-edition"
+      },
+      {
+        "id": 111655,
+        "cover": {
+          "id": 69162,
+          "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hd6.jpg"
+        },
+        "name": "Hearthstone: Rastakhan's Rumble",
+        "slug": "hearthstone-rastakhans-rumble"
+      }
+    ]
+  }
+]
