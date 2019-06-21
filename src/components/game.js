@@ -19,13 +19,11 @@ const GameImage = styled.img`
   height: auto;
 `;
 
-const Game = ({
-  gameName, img, id, slug,
-}) => (
+const Game = ({ name, img, slug }) => (
   // same as props and then using props.games.name
   <Wrapper>
-    <Link to={`/details/${slug}`} state={{ game: `${id}` }}>
-      <GameImage src={img} alt={`${gameName} cover`} />
+    <Link to={`/details/${slug}`}>
+      <GameImage src={img} alt={`${name} cover`} />
     </Link>
   </Wrapper>
 );
@@ -33,6 +31,6 @@ const Game = ({
 export default Game;
 
 Game.propTypes = {
-  gameName: PropTypes.string,
+  name: PropTypes.string,
   img: PropTypes.string,
 }.isRequired;

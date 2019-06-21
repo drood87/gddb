@@ -1,10 +1,11 @@
-/* eslint-disable react/prop-types */
-import React from 'react';
+import React, { Component } from 'react';
 
-const GameDetail = () => (
-  <div>
-    <h1>Hello</h1>
-  </div>
-);
-
-export default GameDetail;
+export default class gameDetail extends Component {
+  render() {
+    return (
+      <div>
+        <h1>Hello From here</h1>
+      </div>
+    );
+  }
+}
