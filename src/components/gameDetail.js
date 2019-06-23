@@ -4,11 +4,15 @@ import React, { Component } from 'react';
 import axios from 'axios';
 import PropTypes from 'prop-types';
 import Moment from 'react-moment';
+import styled from 'styled-components';
+import Overdrive from 'react-overdrive';
 import Layout from './layout';
+import { Cover } from './game';
 
 export default class GameDetail extends Component {
   // get context from gatsby node query and created pages
   state = {
+    screenshots: this.props.pageContext.screenshots,
     image: this.props.pageContext.image,
     id: this.props.pageContext.id,
     result: [],
@@ -39,19 +43,29 @@ export default class GameDetail extends Component {
 
   render() {
     // destructure states
-    const { name, result, image } = this.state;
+    const {
+      name, result, image, screenshots, id,
+    } = this.state;
     const unixTimestamp = result.map(date => date.first_release_date);
 
     return (
       <Layout>
-        <img src={`${image}`} alt={`${name} cover`} />
-        <h1>{name}</h1>
-        <p>
-          <Moment unix format="DD/MM/YYYY">
-            {unixTimestamp}
-          </Moment>
-        </p>
-        <p>{result.map(item => item.summary)}</p>
+        <GameWrapper backdropImg={`${screenshots}`}>
+          <GameInfo>
+            <Overdrive id={id}>
+              <Cover src={`${image}`} alt={`${name} cover`} />
+            </Overdrive>
+            <div>
+              <h1>{name}</h1>
+              <p>
+                <Moment unix format="DD/MM/YYYY">
+                  {unixTimestamp}
+                </Moment>
+              </p>
+              <p>{result.map(item => item.summary)}</p>
+            </div>
+          </GameInfo>
+        </GameWrapper>
       </Layout>
     );
   }
@@ -62,5 +76,32 @@ GameDetail.propTypes = {
     id: PropTypes.number,
     name: PropTypes.string,
     image: PropTypes.string,
+    screenshots: PropTypes.string,
   }).isRequired,
 };
+
+const GameWrapper = styled.div`
+  position: relative;
+  padding-top: 50vh;
+  background: url(${props => props.backdropImg}) no-repeat;
+  background-size: cover;
+  background-position: center;
+`;
+
+const GameInfo = styled.div`
+  background: #fff;
+  text-align: left;
+  padding: 2rem 10%;
+  display: flex;
+  align-items: flex-start;
+
+  > div {
+    margin-left: 20px;
+  }
+
+  img {
+    position: relative;
+    top: -5rem;
+    max-width: inherit;
+  }
+`;
