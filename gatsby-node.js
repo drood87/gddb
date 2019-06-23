@@ -14,6 +14,9 @@ exports.createPages = ({ graphql, actions }) => {
                 alternative_id
                 name
                 slug
+                cover {
+                  url
+                }
               }
             }
           }
@@ -28,6 +31,10 @@ exports.createPages = ({ graphql, actions }) => {
             slug: details.slug,
             id: details.alternative_id,
             name: details.name,
+            image:
+              details.cover === null
+                ? '//images.igdb.com/igdb/image/upload/t_720p/co1hec.jpg'
+                : details.cover.url.replace(/t_thumb/, 't_720p'),
           },
         });
       });

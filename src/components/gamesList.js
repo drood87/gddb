@@ -35,6 +35,7 @@ const GAMES_QUERY = graphql`
             slug
             cover {
               url
+              image_id
             }
           }
         }

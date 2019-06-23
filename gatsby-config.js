@@ -25,7 +25,7 @@ module.exports = {
         },
 
         // Request body
-        data: 'fields name,published.name,published.cover.url,published.slug;where id = 51;',
+        data: 'fields name,published.name,published.cover.url,published.cover.image_id,published.slug;where id = 51;',
 
         // Name of the data to be downloaded.  Will show in graphQL or be saved to a file
         // using this name. i.e. posts.json

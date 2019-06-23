@@ -19,10 +19,12 @@
     "gatsby-source-filesystem": "^2.0.38",
     "gatsby-source-graphql": "^2.0.19",
     "gatsby-transformer-sharp": "^2.1.21",
+    "moment": "^2.24.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1",
+    "react-moment": "^0.9.2",
     "styled-components": "^4.3.1"
   },
   "devDependencies": {
