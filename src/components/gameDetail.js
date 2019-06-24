@@ -24,7 +24,7 @@ export default class GameDetail extends Component {
     try {
       const { id } = this.state;
       const res = await axios({
-        url: 'http://localhost:8010/proxy/games',
+        url: 'https://api-v3.igdb.com/games',
         method: 'POST',
         headers: {
           Accept: 'application/json',
