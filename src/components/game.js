@@ -1,38 +1,30 @@
 import React from 'react';
-import styled from 'styled-components';
 import PropTypes from 'prop-types';
 import { Link } from 'gatsby';
-
-const Wrapper = styled.div`
-  /* display: grid;
-  grid-template-columns: repeat(auto-fit, 1fr); */
-`;
-
-// const GamesHeader = styled.h3`
-//   text-align: center;
-//   font-size: 0.9rem;
-//   margin-bottom: 20px;
-// `;
-
-const GameImage = styled.img`
-  width: auto;
-  height: auto;
-`;
+import styled from 'styled-components';
+import Overdrive from 'react-overdrive';
 
 const Game = ({
-  gameName, img, id, slug,
+  name, img, slug, id,
 }) => (
   // same as props and then using props.games.name
-  <Wrapper>
-    <Link to={`/details/${slug}`} state={{ game: `${id}` }}>
-      <GameImage src={img} alt={`${gameName} cover`} />
-    </Link>
-  </Wrapper>
+
+  <Link to={`/details/${slug}`}>
+    <Overdrive id={id}>
+      <Cover src={img} alt={`${name} cover`} />
+    </Overdrive>
+  </Link>
 );
 
 export default Game;
 
 Game.propTypes = {
-  gameName: PropTypes.string,
+  name: PropTypes.string,
   img: PropTypes.string,
 }.isRequired;
+
+export const Cover = styled.img`
+  height: auto;
+  width: auto;
+  box-shadow: 0 0 35px #000;
+`;

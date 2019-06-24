@@ -7,60 +7,163 @@
         "id": 120,
         "cover": {
           "id": 914,
+          "image_id": "hohtqw21z8ucbsylj7i1",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/hohtqw21z8ucbsylj7i1.jpg"
         },
         "name": "Diablo III",
+        "screenshots": [
+          {
+            "id": 115440,
+            "image_id": "c7e3ld6bqctsg82n5wvh"
+          },
+          {
+            "id": 115441,
+            "image_id": "rj1rbspgpom5xt7tgsej"
+          },
+          {
+            "id": 115442,
+            "image_id": "sq4xtjnigqionni9pdet"
+          },
+          {
+            "id": 115443,
+            "image_id": "dg58xb7dullhcvrlenxm"
+          },
+          {
+            "id": 115444,
+            "image_id": "auqwklwf1olq6obxzw89"
+          }
+        ],
         "slug": "diablo-iii"
       },
       {
         "id": 123,
         "cover": {
           "id": 122,
+          "image_id": "osspygfgdohniipayzeu",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/osspygfgdohniipayzeu.jpg"
         },
         "name": "World of Warcraft",
+        "screenshots": [
+          {
+            "id": 1450,
+            "image_id": "d2khfd34vxngas71dgci"
+          },
+          {
+            "id": 1451,
+            "image_id": "jxrygijnsvlyv0nu03mg"
+          },
+          {
+            "id": 1452,
+            "image_id": "jkx0hgiitlarrhewounf"
+          },
+          {
+            "id": 1453,
+            "image_id": "qhiqlmwvvuaqxxn4cxlr"
+          },
+          {
+            "id": 1454,
+            "image_id": "kqkixazzsokqgoxmuish"
+          }
+        ],
         "slug": "world-of-warcraft"
       },
       {
         "id": 125,
         "cover": {
           "id": 43205,
+          "image_id": "yvtueb4jdyww4t26b0yt",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/yvtueb4jdyww4t26b0yt.jpg"
         },
         "name": "Diablo",
+        "screenshots": [
+          {
+            "id": 36,
+            "image_id": "e7jcsiwijzxdt1sqzbvb"
+          },
+          {
+            "id": 37,
+            "image_id": "tckn5cydm0w2cf8tjv2l"
+          },
+          {
+            "id": 16468,
+            "image_id": "qmksep74fnnnbq6tppig"
+          }
+        ],
         "slug": "diablo"
       },
       {
         "id": 126,
         "cover": {
           "id": 39704,
+          "image_id": "rdxf2fdxiutxiw0dumto",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/rdxf2fdxiutxiw0dumto.jpg"
         },
         "name": "Diablo II",
+        "screenshots": [
+          {
+            "id": 33047,
+            "image_id": "qwh6mbsbny87hpn9wjj5"
+          },
+          {
+            "id": 33048,
+            "image_id": "dlyscpjqglhvcohvwoy5"
+          },
+          {
+            "id": 33049,
+            "image_id": "mn5gsvv5sroptrkw1cwm"
+          }
+        ],
         "slug": "diablo-ii"
       },
       {
         "id": 129,
         "cover": {
           "id": 63915,
+          "image_id": "zqnff2pzs4pkhl4winck",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/zqnff2pzs4pkhl4winck.jpg"
         },
         "name": "Warcraft: Orcs & Humans",
+        "screenshots": [
+          {
+            "id": 16593,
+            "image_id": "qnoocrkvjko6ajz6izlc"
+          },
+          {
+            "id": 16594,
+            "image_id": "wuzbx46786srwqf6xvkd"
+          }
+        ],
         "slug": "warcraft-orcs-humans"
       },
       {
         "id": 130,
         "cover": {
           "id": 129,
+          "image_id": "olpk2nfqu4susanmykqu",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/olpk2nfqu4susanmykqu.jpg"
         },
         "name": "Warcraft II: Tides of Darkness",
+        "screenshots": [
+          {
+            "id": 16595,
+            "image_id": "xj55rj6cdjmnbkxw11be"
+          },
+          {
+            "id": 22938,
+            "image_id": "fhsqttqx0h0jtnfbvd3a"
+          },
+          {
+            "id": 22939,
+            "image_id": "folasyu6s8lx6w7dtzxo"
+          }
+        ],
         "slug": "warcraft-ii-tides-of-darkness"
       },
       {
         "id": 131,
         "cover": {
           "id": 130,
+          "image_id": "cundwztjmcsjxfro46nb",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/cundwztjmcsjxfro46nb.jpg"
         },
         "name": "Warcraft II: Beyond the Dark Portal",
@@ -70,186 +173,511 @@
         "id": 132,
         "cover": {
           "id": 63923,
+          "image_id": "ad2vrrlzdsfy3s2fjtgv",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/ad2vrrlzdsfy3s2fjtgv.jpg"
         },
         "name": "Warcraft III: Reign of Chaos",
+        "screenshots": [
+          {
+            "id": 130332,
+            "image_id": "do7fzlkypmp22x37a5ks"
+          },
+          {
+            "id": 130333,
+            "image_id": "l6ezo1ovn3rdkweivu7o"
+          },
+          {
+            "id": 130334,
+            "image_id": "i1oynuvf858i7g9nw5vk"
+          },
+          {
+            "id": 130335,
+            "image_id": "z4oymgtypnhhp4lp0w06"
+          },
+          {
+            "id": 130336,
+            "image_id": "fkl6jtwogmphqkudqguz"
+          }
+        ],
         "slug": "warcraft-iii-reign-of-chaos"
       },
       {
         "id": 133,
         "cover": {
           "id": 63921,
+          "image_id": "sn7qos6agmexdft6utwa",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/sn7qos6agmexdft6utwa.jpg"
         },
         "name": "Warcraft III: The Frozen Throne",
+        "screenshots": [
+          {
+            "id": 22906,
+            "image_id": "fzisbx0osbp5m5sb4yzt"
+          },
+          {
+            "id": 22907,
+            "image_id": "e1agvaab8le2vegdaifz"
+          }
+        ],
         "slug": "warcraft-iii-the-frozen-throne"
       },
       {
         "id": 227,
         "cover": {
           "id": 221,
+          "image_id": "gmvflcngdn5ykbwclpvs",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/gmvflcngdn5ykbwclpvs.jpg"
         },
         "name": "World of Warcraft: The Burning Crusade",
+        "screenshots": [
+          {
+            "id": 23695,
+            "image_id": "v6loyh7c4obsiptuyjcw"
+          }
+        ],
         "slug": "world-of-warcraft-the-burning-crusade"
       },
       {
         "id": 228,
         "cover": {
           "id": 9704,
+          "image_id": "yli5wwd96p9tuk5bewdx",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/yli5wwd96p9tuk5bewdx.jpg"
         },
         "name": "World of Warcraft: Wrath of the Lich King",
+        "screenshots": [
+          {
+            "id": 26719,
+            "image_id": "x5opjmtfaefzygwhzesa"
+          }
+        ],
         "slug": "world-of-warcraft-wrath-of-the-lich-king"
       },
       {
         "id": 230,
         "cover": {
           "id": 57966,
+          "image_id": "hkpgcjtvdtjb06ik8fse",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/hkpgcjtvdtjb06ik8fse.jpg"
         },
         "name": "StarCraft",
+        "screenshots": [
+          {
+            "id": 9445,
+            "image_id": "t1tonican5sfsmxonz78"
+          },
+          {
+            "id": 9446,
+            "image_id": "k0b3hvwnn1uu7hgskmns"
+          }
+        ],
         "slug": "starcraft"
       },
       {
         "id": 239,
         "cover": {
           "id": 63353,
+          "image_id": "bgn7cqukcnskka73rwse",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/bgn7cqukcnskka73rwse.jpg"
         },
         "name": "StarCraft II: Wings of Liberty",
+        "screenshots": [
+          {
+            "id": 596,
+            "image_id": "adhx1okhll6bs7p5aprr"
+          },
+          {
+            "id": 597,
+            "image_id": "ol7tyhzuaqy0xdeedimc"
+          },
+          {
+            "id": 598,
+            "image_id": "aj9xp0caenpve0v4qav8"
+          },
+          {
+            "id": 599,
+            "image_id": "kysejwx3rgus2w79e6es"
+          },
+          {
+            "id": 600,
+            "image_id": "jidojbvgp9s5d6awun5n"
+          }
+        ],
         "slug": "starcraft-ii-wings-of-liberty"
       },
       {
         "id": 246,
         "cover": {
           "id": 238,
+          "image_id": "kfvnrf9jgsib4kym8gbn",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/kfvnrf9jgsib4kym8gbn.jpg"
         },
         "name": "Diablo II: Lord of Destruction",
+        "screenshots": [
+          {
+            "id": 15708,
+            "image_id": "u4dsjjjgneqxqug0krwe"
+          },
+          {
+            "id": 15709,
+            "image_id": "vdtrupxiet21znw0jmo4"
+          }
+        ],
         "slug": "diablo-ii-lord-of-destruction"
       },
       {
         "id": 456,
         "cover": {
           "id": 439,
+          "image_id": "u0pnnyogoultznhun8sf",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/u0pnnyogoultznhun8sf.jpg"
         },
         "name": "StarCraft: Brood War",
+        "screenshots": [
+          {
+            "id": 22996,
+            "image_id": "ucnrqgbi8d2assyxb9gi"
+          }
+        ],
         "slug": "starcraft-brood-war"
       },
       {
         "id": 457,
         "cover": {
           "id": 63354,
+          "image_id": "lekqpzoikgzinjtpsc5k",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/lekqpzoikgzinjtpsc5k.jpg"
         },
         "name": "StarCraft II: Heart of the Swarm",
+        "screenshots": [
+          {
+            "id": 1666,
+            "image_id": "ja7iiexuc08tyf7dopw7"
+          },
+          {
+            "id": 1667,
+            "image_id": "kl30iqqnfd5uxiscy8ou"
+          },
+          {
+            "id": 1668,
+            "image_id": "g8spbmpb4dfquceafjes"
+          },
+          {
+            "id": 1669,
+            "image_id": "lzzutibqdsjx2jwephdr"
+          },
+          {
+            "id": 1670,
+            "image_id": "uuxjebpe2ycnzdn7isc0"
+          }
+        ],
         "slug": "starcraft-ii-heart-of-the-swarm"
       },
       {
         "id": 458,
         "cover": {
           "id": 63355,
+          "image_id": "cs4c4u0o7xydu1xgopyv",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/cs4c4u0o7xydu1xgopyv.jpg"
         },
         "name": "StarCraft II: Legacy of the Void",
+        "screenshots": [
+          {
+            "id": 17674,
+            "image_id": "mafpbacfb87b8oq2azvk"
+          },
+          {
+            "id": 17675,
+            "image_id": "rrhzf8vcekywqzlzunwu"
+          },
+          {
+            "id": 17676,
+            "image_id": "ryrjm2ejileej8oiiazx"
+          },
+          {
+            "id": 17677,
+            "image_id": "esjd5ubzndfaa8d6kw1x"
+          },
+          {
+            "id": 17678,
+            "image_id": "vsrcxvux39zquccibwyv"
+          }
+        ],
         "slug": "starcraft-ii-legacy-of-the-void"
       },
       {
         "id": 1279,
         "cover": {
           "id": 9241,
+          "image_id": "qx4kelmhvmynsjehm14g",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/qx4kelmhvmynsjehm14g.jpg"
         },
         "name": "Hearthstone",
+        "screenshots": [
+          {
+            "id": 3326,
+            "image_id": "wndgopls3ft70l2nvumt"
+          },
+          {
+            "id": 3329,
+            "image_id": "yewuwhcope2y5oejsa1t"
+          },
+          {
+            "id": 3330,
+            "image_id": "djxueq73uzjrjvozyda7"
+          },
+          {
+            "id": 4905,
+            "image_id": "jk2timarbeme4qior51o"
+          },
+          {
+            "id": 4906,
+            "image_id": "tiqm6ya4gjjb454bhh3v"
+          }
+        ],
         "slug": "hearthstone"
       },
       {
         "id": 1332,
         "cover": {
           "id": 1341,
+          "image_id": "ospnlz5wxtmly1ykfkfm",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/ospnlz5wxtmly1ykfkfm.jpg"
         },
         "name": "World of Warcraft: Mists of Pandaria",
+        "screenshots": [
+          {
+            "id": 1431,
+            "image_id": "pv9rsm0s2cecfqakpeh1"
+          },
+          {
+            "id": 1432,
+            "image_id": "wbddpliomuruddqzvthn"
+          },
+          {
+            "id": 1433,
+            "image_id": "elhwxxeahi9fai2jpsqr"
+          },
+          {
+            "id": 1434,
+            "image_id": "ghoowzohg4flvzdhlqem"
+          }
+        ],
         "slug": "world-of-warcraft-mists-of-pandaria"
       },
       {
         "id": 3157,
         "cover": {
           "id": 8635,
+          "image_id": "wtvqejdbir1t7rt6mddr",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/wtvqejdbir1t7rt6mddr.jpg"
         },
         "name": "World of Warcraft: Warlords of Draenor",
+        "screenshots": [
+          {
+            "id": 7394,
+            "image_id": "kfvgsrxggjsdurx0apny"
+          },
+          {
+            "id": 7395,
+            "image_id": "urxrli7jkdwy6g2vgayn"
+          },
+          {
+            "id": 7396,
+            "image_id": "p8dvgd6dkmfqybv1ph5l"
+          },
+          {
+            "id": 7397,
+            "image_id": "vxzr5mfzx2jdes3kagcg"
+          },
+          {
+            "id": 7398,
+            "image_id": "b124we2t1blof1xbb6cy"
+          }
+        ],
         "slug": "world-of-warcraft-warlords-of-draenor"
       },
       {
         "id": 3182,
         "cover": {
           "id": 3937,
+          "image_id": "qbgh5zqabojbi9ftnujg",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/qbgh5zqabojbi9ftnujg.jpg"
         },
         "name": "Diablo III: Reaper of Souls",
+        "screenshots": [
+          {
+            "id": 33050,
+            "image_id": "fsyoqfsz51n2y82qbbj2"
+          },
+          {
+            "id": 33051,
+            "image_id": "quuu3tvcq0jy9rs0bjzp"
+          }
+        ],
         "slug": "diablo-iii-reaper-of-souls"
       },
       {
         "id": 7313,
         "cover": {
           "id": 11353,
+          "image_id": "nam6futpzszd26us2jat",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/nam6futpzszd26us2jat.jpg"
         },
         "name": "Heroes of the Storm",
+        "screenshots": [
+          {
+            "id": 5632,
+            "image_id": "fkxgn7oneid9vqbyar1c"
+          },
+          {
+            "id": 5633,
+            "image_id": "kj05gy0emppeuyjbsrjv"
+          },
+          {
+            "id": 5634,
+            "image_id": "vp73eww1jpcadwvfer2s"
+          },
+          {
+            "id": 5635,
+            "image_id": "j2bzhq7fb00tcontusys"
+          },
+          {
+            "id": 5636,
+            "image_id": "fwvywtbnxbbjzzj5xjx3"
+          }
+        ],
         "slug": "heroes-of-the-storm"
       },
       {
         "id": 8173,
         "cover": {
           "id": 40631,
+          "image_id": "fen88hu0vhcf3k3owkxd",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/fen88hu0vhcf3k3owkxd.jpg"
         },
         "name": "Overwatch",
+        "screenshots": [
+          {
+            "id": 7311,
+            "image_id": "xcyoi025lvvwnnrdargv"
+          },
+          {
+            "id": 7312,
+            "image_id": "qyardon47coclwtjfwwr"
+          },
+          {
+            "id": 7313,
+            "image_id": "bpcshm1ryzyf4nwu0rkt"
+          },
+          {
+            "id": 7314,
+            "image_id": "aq1xangaqzrlhgetcrop"
+          },
+          {
+            "id": 7315,
+            "image_id": "ao0jpev6qtvqlftjlhv5"
+          }
+        ],
         "slug": "overwatch"
       },
       {
         "id": 11355,
         "cover": {
           "id": 10733,
+          "image_id": "fxbq7rpvc6qtqkch0iaz",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/fxbq7rpvc6qtqkch0iaz.jpg"
         },
         "name": "Starcraft: Ghost",
+        "screenshots": [
+          {
+            "id": 11147,
+            "image_id": "mafqx01dpeufnzvfoup4"
+          },
+          {
+            "id": 11148,
+            "image_id": "bxssx3jkcd4emp2puqow"
+          },
+          {
+            "id": 11149,
+            "image_id": "tmb0hfjjwypvg2t79kr5"
+          },
+          {
+            "id": 11150,
+            "image_id": "kmksiua2s5ksmhwncvsf"
+          }
+        ],
         "slug": "starcraft-ghost"
       },
       {
         "id": 11593,
         "cover": {
           "id": 10900,
+          "image_id": "wbz8xtbg3iq0hzrwre1b",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/wbz8xtbg3iq0hzrwre1b.jpg"
         },
         "name": "World of Warcraft: Legion",
+        "screenshots": [
+          {
+            "id": 11501,
+            "image_id": "biqyjbocjkmgfyli8o0k"
+          },
+          {
+            "id": 11503,
+            "image_id": "o7tlwlcb0j4fhre4x2ti"
+          },
+          {
+            "id": 11504,
+            "image_id": "d35hb6jsl4pxj2xysn7t"
+          },
+          {
+            "id": 17679,
+            "image_id": "oi4cltoclbe13yhpbw0t"
+          },
+          {
+            "id": 17680,
+            "image_id": "y2cjhmgie28qdgen847m"
+          }
+        ],
         "slug": "world-of-warcraft-legion"
       },
       {
         "id": 19162,
         "cover": {
           "id": 69171,
+          "image_id": "co1hdf",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hdf.jpg"
         },
         "name": "Hearthstone: Whispers of Old Gods",
+        "screenshots": [
+          {
+            "id": 258659,
+            "image_id": "sc5jkz"
+          }
+        ],
         "slug": "hearthstone-whispers-of-old-gods"
       },
       {
         "id": 21971,
         "cover": {
           "id": 69169,
+          "image_id": "co1hdd",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hdd.jpg"
         },
         "name": "Hearthstone: Goblins vs Gnomes",
+        "screenshots": [
+          {
+            "id": 29731,
+            "image_id": "wc5hzwx7cnky3r4txqmk"
+          }
+        ],
         "slug": "hearthstone-goblins-vs-gnomes"
       },
       {
         "id": 21973,
         "cover": {
           "id": 69170,
+          "image_id": "co1hde",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hde.jpg"
         },
         "name": "Hearthstone: The Grand Tournament",
@@ -259,153 +687,396 @@
         "id": 21974,
         "cover": {
           "id": 69201,
+          "image_id": "co1he9",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1he9.jpg"
         },
         "name": "Hearthstone: Blackrock Mountain",
+        "screenshots": [
+          {
+            "id": 29726,
+            "image_id": "ldqranvlikg9dvjyljjo"
+          }
+        ],
         "slug": "hearthstone-blackrock-mountain--1"
       },
       {
         "id": 21975,
         "cover": {
           "id": 69200,
+          "image_id": "co1he8",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1he8.jpg"
         },
         "name": "Hearthstone: The League of Explorers",
+        "screenshots": [
+          {
+            "id": 29727,
+            "image_id": "fq09gcgatxrogpyleqr6"
+          },
+          {
+            "id": 29728,
+            "image_id": "qaqblxueckmioz7cfyxy"
+          }
+        ],
         "slug": "hearthstone-the-league-of-explorers"
       },
       {
         "id": 21976,
         "cover": {
           "id": 69203,
+          "image_id": "co1heb",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1heb.jpg"
         },
         "name": "Hearthstone: One Night in Karazhan",
+        "screenshots": [
+          {
+            "id": 29729,
+            "image_id": "zbmt9b0lplf6qz5o7aoh"
+          }
+        ],
         "slug": "hearthstone-one-night-in-karazhan"
       },
       {
         "id": 21977,
         "cover": {
           "id": 69176,
+          "image_id": "co1hdk",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hdk.jpg"
         },
         "name": "Hearthstone: Curse of Naxxramas",
+        "screenshots": [
+          {
+            "id": 29730,
+            "image_id": "hvskmcrk9nfi23dmwkwl"
+          }
+        ],
         "slug": "hearthstone-curse-of-naxxramas"
       },
       {
         "id": 25601,
         "cover": {
           "id": 69172,
+          "image_id": "co1hdg",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hdg.jpg"
         },
         "name": "Hearthstone: Mean Streets of Gadgetzan",
+        "screenshots": [
+          {
+            "id": 258617,
+            "image_id": "sc5jjt"
+          }
+        ],
         "slug": "hearthstone-mean-streets-of-gadgetzan"
       },
       {
         "id": 25683,
         "cover": {
           "id": 26444,
+          "image_id": "olxaetlbkdsagzvd4s4t",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/olxaetlbkdsagzvd4s4t.jpg"
         },
         "name": "StarCraft: Remastered",
+        "screenshots": [
+          {
+            "id": 39953,
+            "image_id": "nfynfyb8s5tbfxundnsb"
+          },
+          {
+            "id": 39954,
+            "image_id": "m194ggvs4d31b3qinlpb"
+          },
+          {
+            "id": 39955,
+            "image_id": "gaid2sc8mmwi5pgszmtk"
+          },
+          {
+            "id": 39956,
+            "image_id": "esedwopebyr1pzd9aoir"
+          },
+          {
+            "id": 39957,
+            "image_id": "lnyh6uw0a2l2ivtfvvtb"
+          }
+        ],
         "slug": "starcraft-remastered"
       },
       {
         "id": 27429,
         "cover": {
           "id": 69173,
+          "image_id": "co1hdh",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hdh.jpg"
         },
         "name": "Hearthstone: Journey to Un'Goro",
+        "screenshots": [
+          {
+            "id": 258618,
+            "image_id": "sc5jju"
+          }
+        ],
         "slug": "hearthstone-journey-to-ungoro"
       },
       {
         "id": 44544,
         "cover": {
           "id": 31764,
+          "image_id": "zki1bat7rxdkyg18ziaq",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/zki1bat7rxdkyg18ziaq.jpg"
         },
         "name": "Overwatch: Origins Edition",
+        "screenshots": [
+          {
+            "id": 112851,
+            "image_id": "uai7whuxwskd01bcpkhh"
+          },
+          {
+            "id": 112852,
+            "image_id": "kfurjxogd33el0nfze7t"
+          }
+        ],
         "slug": "overwatch-origins-edition"
       },
       {
         "id": 47452,
         "cover": {
           "id": 28787,
+          "image_id": "hzuk3rgitj3foa5ojeg6",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/hzuk3rgitj3foa5ojeg6.jpg"
         },
         "name": "Diablo III: Reaper of Souls - Ultimate Evil Edition",
+        "screenshots": [
+          {
+            "id": 114754,
+            "image_id": "tzahl68ngiqj8ubn9erm"
+          },
+          {
+            "id": 114755,
+            "image_id": "vu5bekeqzrfoavn8tzmt"
+          },
+          {
+            "id": 114756,
+            "image_id": "p8mq5i9zzdllskolp7b1"
+          },
+          {
+            "id": 114757,
+            "image_id": "e3nsg4bqdqguqpp4imbr"
+          }
+        ],
         "slug": "diablo-iii-reaper-of-souls-ultimate-evil-edition"
       },
       {
         "id": 52016,
         "cover": {
           "id": 69174,
+          "image_id": "co1hdi",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hdi.jpg"
         },
         "name": "Hearthstone: Knights of the Frozen Throne",
+        "screenshots": [
+          {
+            "id": 258619,
+            "image_id": "sc5jjv"
+          }
+        ],
         "slug": "hearthstone-knights-of-the-frozen-throne"
       },
       {
         "id": 75379,
         "cover": {
           "id": 69220,
+          "image_id": "co1hes",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hes.jpg"
         },
         "name": "World of Warcraft Classic",
+        "screenshots": [
+          {
+            "id": 306480,
+            "image_id": "sc6khc"
+          },
+          {
+            "id": 306481,
+            "image_id": "sc6khd"
+          },
+          {
+            "id": 306482,
+            "image_id": "sc6khe"
+          },
+          {
+            "id": 306483,
+            "image_id": "sc6khf"
+          },
+          {
+            "id": 306484,
+            "image_id": "sc6khg"
+          },
+          {
+            "id": 306485,
+            "image_id": "sc6khh"
+          },
+          {
+            "id": 306486,
+            "image_id": "sc6khi"
+          },
+          {
+            "id": 306487,
+            "image_id": "sc6khj"
+          }
+        ],
         "slug": "world-of-warcraft-classic"
       },
       {
         "id": 75380,
         "cover": {
           "id": 67330,
+          "image_id": "qn7wlwyjrjtbaltpbhsy",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/qn7wlwyjrjtbaltpbhsy.jpg"
         },
         "name": "World of Warcraft: Battle for Azeroth",
+        "screenshots": [
+          {
+            "id": 133650,
+            "image_id": "imz4b4asrjjlhdrxyaqv"
+          }
+        ],
         "slug": "world-of-warcraft-battle-for-azeroth"
       },
       {
         "id": 76152,
         "cover": {
           "id": 69202,
+          "image_id": "co1hea",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hea.jpg"
         },
         "name": "Hearthstone: Kobolds & Catacombs",
+        "screenshots": [
+          {
+            "id": 258658,
+            "image_id": "sc5jky"
+          }
+        ],
         "slug": "hearthstone-kobolds-and-catacombs"
       },
       {
         "id": 96374,
         "cover": {
           "id": 69175,
+          "image_id": "co1hdj",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hdj.jpg"
         },
         "name": "Hearthstone: The Witchwood",
+        "screenshots": [
+          {
+            "id": 258620,
+            "image_id": "sc5jjw"
+          }
+        ],
         "slug": "hearthstone-the-witchwood"
       },
       {
         "id": 105125,
         "cover": {
           "id": 69167,
+          "image_id": "co1hdb",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hdb.jpg"
         },
         "name": "Hearthstone: The Boomsday Project",
+        "screenshots": [
+          {
+            "id": 258615,
+            "image_id": "sc5jjr"
+          },
+          {
+            "id": 258616,
+            "image_id": "sc5jjs"
+          }
+        ],
         "slug": "hearthstone-the-boomsday-project"
       },
       {
         "id": 111650,
         "cover": {
           "id": 69204,
+          "image_id": "co1hec",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hec.jpg"
         },
         "name": "Warcraft III: Reforged",
+        "screenshots": [
+          {
+            "id": 258661,
+            "image_id": "sc5jl1"
+          },
+          {
+            "id": 258662,
+            "image_id": "sc5jl2"
+          },
+          {
+            "id": 258663,
+            "image_id": "sc5jl3"
+          },
+          {
+            "id": 258664,
+            "image_id": "sc5jl4"
+          },
+          {
+            "id": 258665,
+            "image_id": "sc5jl5"
+          },
+          {
+            "id": 258666,
+            "image_id": "sc5jl6"
+          }
+        ],
         "slug": "warcraft-iii-reforged"
       },
       {
         "id": 111651,
         "cover": {
           "id": 69205,
+          "image_id": "co1hed",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hed.jpg"
         },
         "name": "Diablo Immortal",
+        "screenshots": [
+          {
+            "id": 258667,
+            "image_id": "sc5jl7"
+          },
+          {
+            "id": 258668,
+            "image_id": "sc5jl8"
+          },
+          {
+            "id": 258669,
+            "image_id": "sc5jl9"
+          },
+          {
+            "id": 258670,
+            "image_id": "sc5jla"
+          },
+          {
+            "id": 258671,
+            "image_id": "sc5jlb"
+          },
+          {
+            "id": 258672,
+            "image_id": "sc5jlc"
+          },
+          {
+            "id": 258673,
+            "image_id": "sc5jld"
+          },
+          {
+            "id": 258674,
+            "image_id": "sc5jle"
+          },
+          {
+            "id": 258675,
+            "image_id": "sc5jlf"
+          },
+          {
+            "id": 258676,
+            "image_id": "sc5jlg"
+          }
+        ],
         "slug": "diablo-immortal"
       },
       {
@@ -417,9 +1088,16 @@
         "id": 111655,
         "cover": {
           "id": 69162,
+          "image_id": "co1hd6",
           "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1hd6.jpg"
         },
         "name": "Hearthstone: Rastakhan's Rumble",
+        "screenshots": [
+          {
+            "id": 258660,
+            "image_id": "sc5jl0"
+          }
+        ],
         "slug": "hearthstone-rastakhans-rumble"
       }
     ]

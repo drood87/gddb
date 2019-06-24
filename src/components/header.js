@@ -7,7 +7,7 @@ import styled from 'styled-components';
 import logo from '../images/logo.svg';
 
 const HeaderWrapper = styled.header`
-  background: #132028;
+  background: #111;
   margin-bottom: 1.45rem;
 
   & > div {
