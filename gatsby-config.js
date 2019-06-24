@@ -15,7 +15,7 @@ module.exports = {
         typePrefix: 'internal__',
 
         // The url, this should be the endpoint you are attempting to pull data from
-        url: 'https://api-v3.igdb.com/companies',
+        url: 'https://crossorigin.me/https://api-v3.igdb.com/companies',
 
         method: 'POST',
 
