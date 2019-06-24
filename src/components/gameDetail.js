@@ -24,7 +24,7 @@ export default class GameDetail extends Component {
     try {
       const { id } = this.state;
       const res = await axios({
-        url: 'https://crossorigin.me/https://api-v3.igdb.com/games',
+        url: 'https://cors-anywhere.herokuapp.com/https://api-v3.igdb.com/games',
         method: 'POST',
         headers: {
           Accept: 'application/json',
