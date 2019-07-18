@@ -21,6 +21,7 @@ export default Game;
 Game.propTypes = {
   name: PropTypes.string,
   img: PropTypes.string,
+  id: PropTypes.number,
 }.isRequired;
 
 export const Cover = styled.img`
